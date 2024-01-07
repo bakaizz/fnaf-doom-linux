@@ -1,26 +1,30 @@
-#FNAF DOOM 1 LINUX / WINDOWS
+# FNAF DOOM 1 LINUX / WINDOWS
 
 **Ubuntu / Debian packages:**
 
 *You need to install the FreeDoom*
 
-installing package:
+***installing packages:***
 
-echo "sudo apt install freedoom -y" 
-
+`$ sudo apt install freedoom -y`
 
 **Download the FNAF DOOM 1 Files**
 
-[Download files](https://archive.org/details/fnaf-1-doom-original-v.-1.1)
+**Oficial Site:**
 
+[Download files](https://gamejolt.com/games/FiveNightsAtFreddys1Doom/228159)
+
+**Alternative 1 (Complete Files):**
+
+[Download files](https://archive.org/details/fnaf-linux)
 
 **Start the game**
 
 *You can start the script for terminal or graphical interface*
 
-Run:
-echo "./start"
+**Run the game:***
 
+`$ ./start`
 
 **How to play on multiplayer**
 
