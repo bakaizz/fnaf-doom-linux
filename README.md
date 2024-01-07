@@ -27,7 +27,7 @@
 
 **Run the game:***
 
-`$ ./start`
+`$ ./start-linux`
 
 **How to play on multiplayer**
 
