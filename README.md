@@ -1,5 +1,8 @@
 # FNAF DOOM 1 LINUX / WINDOWS
 
+## Screenshot
+![game](https://github.com/bakaizz/fnaf-doom-linux/blob/main/screenshot-1.png)
+
 **Ubuntu / Debian packages:**
 
 *You need to install the FreeDoom*
