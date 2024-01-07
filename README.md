@@ -32,9 +32,9 @@
 **How to play on multiplayer**
 
 *You can execute the start script to play on single player or multiplayer
-If you want to play online or LAN read the **multiplayer-help.html**
+If you want to play online or LAN read the **multiplayer-help.html***
 
-You can compile the simple scripts to select how many players you want
+*You can compile the simple scripts to select how many players you want
 on your room*
 
 **Note:** *The game just support UDP ports :D*
